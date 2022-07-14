@@ -16,11 +16,11 @@ Run the code like any JAVA application
 
 2. /api/v1/getPeople
 
-    Get People data from database.
+        Get People data from database.
 
 3. /api/v1/addPerson
 
-    Add Person data to database.
+        Add Person data to database.
 
 
 
